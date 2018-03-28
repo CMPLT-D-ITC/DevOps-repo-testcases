@@ -1,4 +1,4 @@
-﻿wait(30)
+﻿wait(60)
 Browser("Google").Navigate "http://192.168.104.31:8099/"
 Set childDescriptor = Description.Create
 childDescriptor("micclass").value = "WebElement"
