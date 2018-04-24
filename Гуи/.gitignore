@@ -1,5 +1,12 @@
 #UFT ignore section
-*.lck
-/Res*
+/obj
+/DatabaseBackup
+#/bin/Script.dll
+#/bin/Script.pdb
+/Result*
+/flow.png
+/FlowSerialization.zip
+*.log
 #end UFT ignore section
+
 
