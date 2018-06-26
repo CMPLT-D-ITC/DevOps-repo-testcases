@@ -1,7 +1,5 @@
-﻿wait(60)
+﻿wait(10)
 'Browser("Google").Navigate "http://192.168.104.31:8099/"
-
-Browser("Google").Navigate "yandex.ru"
 
 'Set childDescriptor = Description.Create
 'childDescriptor("micclass").value = "WebElement"
